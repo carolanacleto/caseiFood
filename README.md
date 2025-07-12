@@ -16,7 +16,7 @@ Como os notebooks foram desenvolvidos dentro do meu ambiente pessoal no Databric
 
 
 ### Relatório/apresentação final
-O relatório com os principais resultados obtidos está disponível neste repositório como: relatorio_final_case.pdf.
+O relatório com os principais resultados obtidos está disponível neste repositório como: [iFood] Relatorio final - Case Tecnico de Data Analysis.pdf.
 Nota pessoal: o relatório está mais descritivo e detalhado do que seria ideal para uma reunião executiva. Optei por explicar cuidadosamente todas as decisões e resultados para garantir que até pessoas sem conhecimento técnico consigam entender o raciocínio por trás de cada etapa do projeto. Para uma reunião executiva, seria ideal resumir o conteúdo e apresentar os principais pontos de forma mais objetiva.
 
 ### Observação:
