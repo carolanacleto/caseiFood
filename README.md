@@ -4,14 +4,14 @@ Todo o processo de carregamento, tratamento das bases, análise exploratória e 
 Notebook de preparação dos dados:
 Notebook de análise e modelagem:
 
-# Importante: Como os notebooks estão dentro do meu ambiente do Databricks Community Edition, apenas eu consigo executá-los diretamente. Por isso, exportei ambos os notebooks e os deixei disponíveis neste repositório, nos seguintes arquivos. 
+# Importante: 
+Como os notebooks estão dentro do meu ambiente do Databricks Community Edition, apenas eu consigo executá-los diretamente. Por isso, exportei ambos os notebooks e os deixei disponíveis neste repositório, nos seguintes arquivos. 
 
 notebook_preparacao_dados.ipynb
 notebook_modelagem_estatistica.ipynb
 
-# O relatório/apresentação final com os principais resultados também está disponível neste repositório, com o nome:
-
-relatorio_final_case.pdf
+# Relatório/apresentação final
+O relatório final com os principais resultados também está disponível neste repositório, com o nome: relatorio_final_case.pdf
 
 # Observação:
 Gostaria de ser totalmente transparente com vocês:
