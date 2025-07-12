@@ -8,7 +8,7 @@ Notebooks desenvolvidos (disponíveis neste repositório):
 
 ### Como reproduzir os notebooks no seu ambiente Databricks: 
 Como os notebooks foram desenvolvidos dentro do meu ambiente pessoal no Databricks Community Edition, eles não podem ser executados diretamente por outros usuários. Para reproduzi-los no seu próprio ambiente Databricks, siga os passos abaixo:
-1) Faça o download dos arquivos de dados disponíveis neste repositório (pasta dados/).
+1) Faça o download dos arquivos de dados, através dos links forncecidos no case.
 2) No Databricks, acesse a aba lateral "Data" e clique em "Add Data" > "Upload File".
 3) Faça o upload dos arquivos necessários para dentro da plataforma.
 4) Após o upload, os arquivos serão armazenados em um caminho como: /dbfs/FileStore/tables/nome_do_arquivo.csv
