@@ -21,7 +21,7 @@ Nota pessoal: o relatório está mais descritivo e detalhado do que seria ideal 
 
 ### Observação:
 Gostaria de ser totalmente transparente com vocês:
-A modelagem estatística foi inicialmente desenvolvida em R, linguagem com a qual tenho maior domínio, por já utilizá-la com frequência tanto no trabalho quanto durante minha pós-graduação.
+Os testes estatísticos e a modelagem realizados nesta análise foram inicialmente desenvolvidos em R, linguagem com a qual tenho maior domínio, por já utilizá-la com frequência tanto no trabalho quanto durante minha graduação e pós-graduação.
 
 Posteriormente, com o apoio de ferramentas de IA, transcrevi os códigos para Python para garantir a compatibilidade com o ambiente e o case proposto.
 Tenho plena consciência da importância de dominar Python para projetos de modelagem, e estou comprometida em continuar meu aprendizado ativo na linguagem.
