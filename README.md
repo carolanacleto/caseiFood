@@ -19,9 +19,11 @@ Como os notebooks foram desenvolvidos dentro do meu ambiente pessoal no Databric
 ### Relatórios disponíveis neste repositório:
 
 [iFood] Relatório Final - Case Técnico de Data Analysis.pdf:
+
 Documento completo e detalhado, com todo o raciocínio técnico desenvolvido ao longo do projeto. Ideal para discussões entre áreas de dados e negócios, com foco analítico.
 
 [iFood] Relatório Executivo - Case Técnico de Data Analysis.pdf:
+
 Versão mais concisa e objetiva, voltada para apresentações executivas. Recomendado para lideranças e áreas tomadoras de decisão, com foco em insights e recomendações práticas.
 
 
