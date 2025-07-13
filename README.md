@@ -2,7 +2,7 @@
 Todo o processo de carregamento, tratamento das bases, análise exploratória e modelagem estatística foi realizado na plataforma Databricks Community Edition.
 
 Notebooks desenvolvidos (disponíveis neste repositório):
-- notebook_preparacao_dados.ipynb – Etapas de limpeza, transformação e preparação das variáveis. Link Databricks: https://dbc-821fdc49-4774.cloud.databricks.com/editor/notebooks/3372752459351212?o=1434825530295015#command/7160234885973343
+- [iFood] Data Analysis _ Prepare Data.ipynb – Etapas de limpeza, transformação e preparação das variáveis. Link Databricks: https://dbc-821fdc49-4774.cloud.databricks.com/editor/notebooks/3372752459351212?o=1434825530295015#command/7160234885973343
 - [iFood] Data Analysis _ Analyse Data.ipynb – Análise exploratória, segmentações e modelo estatístico aplicado. Link Databricks: https://dbc-821fdc49-4774.cloud.databricks.com/editor/notebooks/710778929764000?o=1434825530295015
 
 
