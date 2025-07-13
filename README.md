@@ -15,9 +15,14 @@ Como os notebooks foram desenvolvidos dentro do meu ambiente pessoal no Databric
 5) No código, substitua os caminhos locais por este caminho do Databricks. Exemplo: df = pd.read_csv("file:/dbfs/FileStore/tables/nome_do_arquivo.csv")
 
 
-### Relatório/apresentação final
-O relatório com os principais resultados obtidos está disponível neste repositório como: [iFood] Relatorio final - Case Tecnico de Data Analysis.pdf.
-Nota pessoal: o relatório está mais descritivo e detalhado do que seria ideal para uma reunião executiva. Optei por explicar cuidadosamente todas as decisões e resultados para garantir que até pessoas sem conhecimento técnico consigam entender o raciocínio por trás de cada etapa do projeto. Para uma reunião executiva, seria ideal resumir o conteúdo e apresentar os principais pontos de forma mais objetiva.
+### Relatórios disponíveis neste repositório:
+
+[iFood] Relatório Final - Case Técnico de Data Analysis.pdf
+Documento completo e detalhado, com todo o raciocínio técnico desenvolvido ao longo do projeto. Ideal para discussões entre áreas de dados e negócios, com foco analítico.
+
+[iFood] Relatório Executivo - Case Técnico de Data Analysis.pdf
+Versão mais concisa e objetiva, voltada para apresentações executivas. Recomendado para lideranças e áreas tomadoras de decisão, com foco em insights e recomendações práticas.
+
 
 ### Observação:
 Gostaria de ser totalmente transparente com vocês:
