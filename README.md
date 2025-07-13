@@ -5,6 +5,7 @@ Notebooks desenvolvidos (disponíveis neste repositório):
 - [iFood] Data Analysis _ Prepare Data.ipynb – Etapas de limpeza, transformação e preparação das variáveis. Link Databricks: https://dbc-821fdc49-4774.cloud.databricks.com/editor/notebooks/3372752459351212?o=1434825530295015#command/7160234885973343
 - [iFood] Data Analysis _ Analyse Data.ipynb – Análise exploratória, segmentações e modelo estatístico aplicado. Link Databricks: https://dbc-821fdc49-4774.cloud.databricks.com/editor/notebooks/710778929764000?o=1434825530295015
 
+- Devido ao tamanho e peso da base de pedidos (order), foi necessário fazer o download dos arquivos separados, realizar a leitura individual de cada parte e, em seguida, unificá-los dentro do Databricks para formar a base final utilizada na análise.
 
 ### Como reproduzir os notebooks no seu ambiente Databricks: 
 Como os notebooks foram desenvolvidos dentro do meu ambiente pessoal no Databricks Community Edition, eles não podem ser executados diretamente por outros usuários. Para reproduzi-los no seu próprio ambiente Databricks, siga os passos abaixo:
